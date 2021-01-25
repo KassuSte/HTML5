@@ -1,0 +1,78 @@
+
+
+<!DOCTYPE HTML>
+
+<html>
+<body>
+<head>
+<style>
+body {background-color:lightblue;}
+</style>
+</head>
+<title>Introduction to floorball</title>
+
+<h1 style="background-color:MediumSeaGreen;">Floorball</h1>
+<img src="floorball 1.jpg" alt=floorball 1" style="width:500px;height:300px;">
+
+
+</head>
+
+<body>
+
+<h3>Basic knowledge</h3>
+<p>Floorball is a type of floor hockey with five players and a goalkeeper in each team. Men and women play indoors with 96–115.5 cm-long (37.8–45.5 in) sticks and a 70–72 mm-circumference (2.76–2.83 in) plastic ball with holes. Matches are played in three twenty-minute periods. Floorball was included in the World Games for the first time in 2017 in Wroclaw, Poland. Sweden were the first World Games gold medal winners.</p>
+
+<h4>History</h4>
+
+<p>n various forms the game has been played since the early 20th Century in Canada as a recreational sport, especially in high school gymnasiums, as a playful variant of hockey, where the sticks got their form from the hockey game bandy. Most Canadian males born in the 1950s and before could attest to this.[citation needed] Similarly, during the 1950s and 1960s[citation needed] many public school systems within Michigan incorporated floorball into their primary and secondary school gym classes. Later, Americans claimed to have invented it, and held interstate tournaments in the 1960s</p>
+<h4> More information:</h4>
+<a href=http://https://en.wikipedia.org/wiki/Floorball.html">Wikipedia</a>
+<br>
+<a href=http://https://fliiga.com/fi/miehet/?gclid=CjwKCAjwwab7BRBAEiwAapqpTCWb_FjCZtBKcEb9VE0FrU0HJ2WadXV1pIX1D8bfIAVv8IGjKBWegBoCmR8QAvD_BwE.html">F-liiga</a>
+<br>
+<a href=http://https://salibandy.fi/fi/etusivu/.html">Salibandyliitto</a>
+<br>
+<br>
+<img src="floorball 2.jpg" alt=floorball 2" style="width:600px;height:400px;">
+<h4>Worldchampionship final standings 2016-2018</h4>
+<table border="1">
+<tr>
+	<td>
+	</td>
+	<td>2018
+	</td>
+	<td>2016
+	</td>
+</tr>
+
+<tr>
+	<td>Finland
+	</td>
+	<td>1.st place
+	</td>
+	<td>1.st place
+	</td>
+</tr>
+
+<tr>
+	<td>Sweden
+	</td>
+	<td>2.nd place
+	</td>
+	<td>2.nd place
+	</td>
+</tr>
+</table>
+<br>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1932.5597312889151!2d25.07750577730087!3d60.22162329881741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x469208cd783b0415%3A0xdd68c220622126d6!2sArena%20Center%20Myllypuro!5e0!3m2!1sfi!2sfi!4v1600778035857!5m2!1sfi!2sfi" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X1YVohLiTu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFqUQG-JfUMxQEZl5IFLeYxHSZoLTi8FSfY6E6nBwXe47rIg/viewform?embedded=true" width="640" height="736" frameborder="0" marginheight="0" marginwidth="0">Ladataan…</iframe>
+
+
+
